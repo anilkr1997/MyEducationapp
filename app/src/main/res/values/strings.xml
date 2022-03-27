@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Omitec Computer Institute </string>
+    <string name="registation">Register</string>
+    <string name="selectepackage">Select Package</string>
+    <string name="login">login</string>
+    <string name="loginid">Email or Phone number</string>
+    <string name="password">password</string>
+    <string name="home">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Video">Video</string>
+    <string name="buy">Buy</string>
+    <string name="syllabus">Syllabus</string>
+    <string name="Cource">Cource Certificates</string>
+    <string name="offline">Offline Downloads</string>
+    <string name="studymatrial">Study Material</string>
+    <string name="freetest">Free Test</string>
+    <string name="studenttestomonial">Students Testimonial</string>
+    <string name="Payment">Payment</string>
+    <string name="setting">Setting</string>
+    <string name="profile">Profile</string>
+</resources>

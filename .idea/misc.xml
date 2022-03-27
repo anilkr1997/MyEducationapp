@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/addnewsession_bg.xml" value="0.15341880341880343" />
+        <entry key="app/src/main/res/drawable/appointment_calender.xml" value="0.2726495726495726" />
+        <entry key="app/src/main/res/drawable/arrow_up_down.xml" value="0.15341880341880343" />
+        <entry key="app/src/main/res/drawable/banner_background.xml" value="0.2726495726495726" />
+        <entry key="app/src/main/res/drawable/bottomnavigaterselector.xml" value="0.15341880341880343" />
+        <entry key="app/src/main/res/drawable/buyer_seller_button_selecter.xml" value="0.2726495726495726" />
+        <entry key="app/src/main/res/drawable/discussion_like.xml" value="0.15341880341880343" />
+        <entry key="app/src/main/res/drawable/filled_background.xml" value="0.15341880341880343" />
+        <entry key="app/src/main/res/drawable/ic_back_arrow.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.2726495726495726" />
+        <entry key="app/src/main/res/drawable/ic_baseline_menu_book_24.xml" value="0.2726495726495726" />
+        <entry key="app/src/main/res/drawable/ic_seed.xml" value="0.2726495726495726" />
+        <entry key="app/src/main/res/drawable/major_mandi_arrow.xml" value="0.15341880341880343" />
+        <entry key="app/src/main/res/drawable/trapezoid.xml" value="0.15341880341880343" />
+        <entry key="app/src/main/res/drawable/trapezoid2.xml" value="0.15341880341880343" />
+        <entry key="app/src/main/res/drawable/unfilled_background.xml" value="0.15341880341880343" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.31614583333333335" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.17222222222222222" />
+        <entry key="app/src/main/res/layout/bannerlayout.xml" value="0.31614583333333335" />
+        <entry key="app/src/main/res/layout/contentlayout.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/custompopup.xml" value="0.31614583333333335" />
+        <entry key="app/src/main/res/layout/dialog_my_progress_bar.xml" value="0.2594017094017094" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.2594017094017094" />
+        <entry key="app/src/main/res/layout/fragment_open_pdf.xml" value="0.2594017094017094" />
+        <entry key="app/src/main/res/layout/haderlayout.xml" value="0.2594017094017094" />
+        <entry key="app/src/main/res/layout/listofpackage.xml" value="0.31614583333333335" />
+        <entry key="app/src/main/res/layout/toolbar.xml" value="0.14017094017094017" />
+        <entry key="app/src/main/res/menu/menuitem.xml" value="0.2594017094017094" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

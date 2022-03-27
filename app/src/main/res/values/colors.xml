@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+
+    <color name="colorPrimaryDark">#19641B</color>
+    <color name="colorPrimary">#4D4D4D</color>
+    <color name="colorPrimary2">#D7F6D8</color>
+    <color name="colorAccent">#048042</color>
+    <color name="background">#EFEFEF</color>
+
+    <!--<color name="colorPrimaryDark">#005189</color>-->
+    <!--<color name="colorPrimary">#109CFE</color>-->
+    <!--<color name="colorAccent">#FFC107</color>-->
+    <color name="primary_light">#D7CCC8</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+
+    <color name="divider">#BDBDBD</color>
+    <color name="badge_color">#F092CE</color>
+    <color name="red">#e92323</color>
+
+    <color name="mulled_wine">#4F4159</color>
+
+    <!--shop dashboard colors-->
+    <color name="red_light">#F15050</color>
+    <color name="green">#48D26B</color>
+    <color name="darkblue">#5A9CEE</color>
+
+
+    <color name="selectiveYellow">#ffb300</color>
+    <color name="caribbeanGreen">#00bfa5</color>
+    <color name="wisteria">#a569bd</color>
+
+
+    <color name="fbutton_default_color">#3eadeb</color>
+    <color name="fbutton_default_shadow_color">#ff3493c8</color>
+    //Color Swatches provided by http://designmodo.github.io/Flat-UI/
+    <color name="fbutton_color_midnight_blue">#2c3e50</color>
+    <color name="fbutton_color_concrete">#95a5a6</color>
+
+
+    <!--new themes-->
+
+    <!--Profile colors-->
+
+
+    <!--    Color for color full background-->
+
+    <color name="transparent_1">#99000000</color>
+
+
+    <color name="blue">#FF1784C7</color>
+    <color name="transparent">#00000000</color>
+    <color name="gray">#848484</color>
+
+
+
+
+
+
+
+    <!--    ads color-->
+    <color name="gnt_test_background_color">#00F4F4F4</color>
+    <color name="gnt_white">#FFFFFF</color>
+    <color name="gnt_gray">#808080</color>
+
+
+    <color name="gnt_bg">#FAFBFB</color>
+    <color name="gnt_text_primary">#000001</color>
+    <color name="gnt_text_secondary">#212121</color>
+    <color name="gnt_text_tertiary">#606770</color>
+</resources>
